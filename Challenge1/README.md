@@ -1,7 +1,7 @@
-# jitu-insurance-page
+# insurance-page
 A landing page challenge for an insurance company in vanilla CSS 
 
-# [Demo](https://jitu-insurance-page.vercel.app/)
+# [Demo](https://insurance-page.vercel.app/)
 
 ![Screenshot](design/Screenshot.png)
 
